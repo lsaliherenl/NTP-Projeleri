@@ -157,5 +157,5 @@ Sık Sorulan Sorular (SSS)
   - Evet. Açık/Koyu ve yazı tipi boyutu menü/toolbar/status dahil uygular.
 
 - Hassas alanlar kaydediliyor mu?
-  - Hayır. TextBox şifre alanları (UseSystemPasswordChar/PasswordChar) otomatik atlanır.
+  - Hayır. TextBox şifre alanları (UseSystemPasswordChar/PasswordChar) otomatik atlanır .
 
