@@ -159,4 +159,4 @@ ChatApp/
 ```
 
 ## Lisans
-Bu proje eğitim ve demo amaçlıdır. İhtiyaçlarınıza göre genişletebilirsiniz.
+Bu proje eğitim ve demo amaçlıdır. İhtiyaçlarınıza göre genişletebilirsiniz .
