@@ -1,0 +1,7 @@
+C:\Users\salih\OneDrive\Masaüstü\Yuz_Tanima\yuz_tanima\obj\Debug\net8.0-windows\win-x64\yuz_tanima.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Yuz_Tanima\yuz_tanima\obj\Debug\net8.0-windows\win-x64\yuz_tanima.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\Yuz_Tanima\yuz_tanima\obj\Debug\net8.0-windows\win-x64\yuz_tanima.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\Yuz_Tanima\yuz_tanima\obj\Debug\net8.0-windows\win-x64\yuz_tanima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\OneDrive\Masaüstü\Yuz_Tanima\yuz_tanima\obj\Debug\net8.0-windows\win-x64\yuz_tanima.AssemblyInfoInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Yuz_Tanima\yuz_tanima\obj\Debug\net8.0-windows\win-x64\yuz_tanima.AssemblyInfo.cs
+C:\Users\salih\OneDrive\Masaüstü\Yuz_Tanima\yuz_tanima\obj\Debug\net8.0-windows\win-x64\yuz_tanima.csproj.CoreCompileInputs.cache

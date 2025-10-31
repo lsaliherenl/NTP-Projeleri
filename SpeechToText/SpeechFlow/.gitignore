@@ -1,0 +1,218 @@
+# C#
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+Log/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Visual Studio 2017 cache/options directory
+.vs/
+
+# Visual Studio Code cache/options directory
+.vscode/
+
+# Rider cache/options directory
+.idea/
+
+# Local History for Visual Studio
+.localhistory/
+
+# MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.nunit
+nunit-project.xml
+*.VisualState.xml
+TestResult.xml
+
+# Build results of an ATL project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.log
+*.scc
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a Visual Studio extension that provides on-the-fly code analysis
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JustCode is a Visual Studio extension that provides on-the-fly code analysis
+.JustCode
+
+# TeamCity is a continuous integration server.
+_TeamCity*
+
+# DotCover is a code coverage tool
+*.dotCover
+
+# AxoCover is a code coverage tool
+.axoCover/*
+!.axoCover/settings.json
+
+# Visual Studio Deployment projects
+*.vdproj
+*.user
+*.csd
+*.cd
+*.dso
+*.rgl
+*.bak
+
+# Microsoft Test Manager
+*.mtm
+*.vsdmi
+*.vsmdi
+*.trx
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Test Projects
+[Bb]in/
+[Oo]bj/
+
+# StyleCop is a tool that enforces a set of style and consistency rules
+StyleCop.Cache
+stylecop.cache
+StyleCop.*.dll
+
+# Fakes Assemblies
+FakesAssemblies/
+
+# GhostDoc is a tool that generates XML documentation comments
+*.GhostDoc.xml
+
+# CodeRush is a Visual Studio extension that provides on-the-fly code analysis
+.cr/
+
+# Telerik JustTrace is a memory and performance profiler
+*.jtr
+
+# Telerik JustMock is a mocking framework
+*.jmconfig
+
+# NCrunch is a continuous testing tool for Visual Studio
+_NCrunch_*
+*.ncrunch
+*.[Dd]b
+
+# Dotfuscator is a .NET obfuscator
+DotfuscatorReports/
+*.dotfuscator.user
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# PDBs, XMLs and symbols can be ignored as well
+*.pdb
+*.xml
+*.symbols
+!**/[Pp]ackages/**/*.pdb
+!**/[Pp]ackages/**/*.xml
+!**/[Pp]ackages/**/*.symbols
+# NuGet v3's project.json file needs to be saved to Git
+project.json
+project.lock.json
+
+# Cake is a cross platform build automation system
+tools/
+
+# Paket is a dependency manager for .NET
+.paket/paket.bootstrapper.exe
+paket-files/
+
+# KuduSync.NET is a deployment tool
+.kudu/
+KuduSync.NET/
+*.deployment
+deploy.cmd
+.deployment
+
+# F#
+*.fsproj.user
+*.fsx
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# service fabric
+**/pkg/
+
+# Windows Installer XML Toolset
+*.wixproj.user
+
+# Visual Studio building process
+.build/
+[Bb]uild/
+
+# End of https://www.gitignore.io/api/visualstudio

@@ -1,0 +1,50 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="600"
+        x:Class="SpeechFlow.MainWindow"
+        Title="SpeechFlow"
+        Background="#1E1E1E">
+    <Window.Styles>
+        <Style Selector="Border.listening">
+            <Style.Animations>
+                <Animation Duration="0:0:1.5" IterationCount="INFINITE" PlaybackDirection="Alternate">
+                    <KeyFrame Cue="0%">
+                        <Setter Property="BoxShadow" Value="0 0 10 0 White"/>
+                    </KeyFrame>
+                    <KeyFrame Cue="100%">
+                        <Setter Property="BoxShadow" Value="0 0 25 5 White"/>
+                    </KeyFrame>
+                </Animation>
+            </Style.Animations>
+        </Style>
+    </Window.Styles>
+    <Grid RowDefinitions="*,Auto">
+        <ScrollViewer Grid.Row="0" Margin="20">
+            <TextBlock Name="RecognizedText"
+                       TextWrapping="Wrap"
+                       Foreground="White"
+                       FontSize="20"/>
+        </ScrollViewer>
+
+        <Border Name="MicrophoneButtonBorder"
+                Grid.Row="1"
+                Width="80"
+                Height="80"
+                CornerRadius="40"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Margin="20">
+            <Button Name="MicrophoneButton"
+                    Width="80"
+                    Height="80"
+                    CornerRadius="40"
+                    Background="#333333"
+                    BorderBrush="White"
+                    BorderThickness="2">
+                <TextBlock Text="🎤" FontSize="40" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Button>
+        </Border>
+    </Grid>
+</Window>

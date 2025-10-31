@@ -1,0 +1,91 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]est[Rr]esult*/
+[Bb]uild/
+
+# Rider / VS Code / JetBrains
+.idea/
+.vscode/
+*.code-workspace
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Packages
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+!**/[Pp]ackages/repositories.config
+
+# Cache / temp
+*.cache
+*.tmp
+*.temp
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Resharper / Analyzer
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# IIS / Azure
+.sass-cache/
+.publishsettings
+**/Properties/PublishProfiles/*
+*.pubxml.user
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Tools
+*.psess
+*.vsp
+*.vspscc
+
+# Generated
+**/obj/**/TemporaryGeneratedFile_*.cs
+**/obj/**/FileListAbsolute.txt
+
+# Dotnet artifacts
+*.deps.json
+*.runtimeconfig.dev.json
+
+# Local settings
+*.local.json
+appsettings.*.local.json
+
+# Windows Installer
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Crash dumps
+*.dmp
+
+# --- Custom rules for Flappy Bird build output ---
+!bin/Release/net8.0-windows/*.exe
+!bin/Release/net8.0-windows/*.dll
+!bin/Release/net8.0-windows/*.json
+!bin/Release/net8.0-windows/*.pdb
