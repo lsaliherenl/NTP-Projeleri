@@ -155,4 +155,4 @@ Herhangi bir sorun yaşarsanız:
 
 ---
 
-**Not**: Bu uygulama Microsoft Azure Speech Services kullanır. Azure hesabınızda Speech Services kaynağı oluşturmanız ve geçerli bir API key'i almanız gerekmektedir.
+**Not**: Bu uygulama Microsoft Azure Speech Services kullanır. Azure hesabınızda Speech Services kaynağı oluşturmanız ve geçerli bir API key'i almanız gerekmektedir .

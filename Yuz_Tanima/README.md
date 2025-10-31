@@ -48,6 +48,6 @@ Windows Forms (.NET 8) üzerinde EmguCV kullanarak kamera önizlemesi, yüz alg�
 - Haar XML’leri: OpenCV `haarcascades` koleksiyonu.
 
 ---
-Bu proje bir okul proje ödevidir.
+Bu proje bir okul proje ödevidir .
 
 
