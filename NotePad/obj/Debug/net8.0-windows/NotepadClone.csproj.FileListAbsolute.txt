@@ -1,0 +1,14 @@
+C:\Users\salih\Downloads\NotepadClone\bin\Debug\net8.0-windows\NotepadClone.exe
+C:\Users\salih\Downloads\NotepadClone\bin\Debug\net8.0-windows\NotepadClone.deps.json
+C:\Users\salih\Downloads\NotepadClone\bin\Debug\net8.0-windows\NotepadClone.runtimeconfig.json
+C:\Users\salih\Downloads\NotepadClone\bin\Debug\net8.0-windows\NotepadClone.dll
+C:\Users\salih\Downloads\NotepadClone\bin\Debug\net8.0-windows\NotepadClone.pdb
+C:\Users\salih\Downloads\NotepadClone\obj\Debug\net8.0-windows\NotepadClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\Downloads\NotepadClone\obj\Debug\net8.0-windows\NotepadClone.AssemblyInfoInputs.cache
+C:\Users\salih\Downloads\NotepadClone\obj\Debug\net8.0-windows\NotepadClone.AssemblyInfo.cs
+C:\Users\salih\Downloads\NotepadClone\obj\Debug\net8.0-windows\NotepadClone.csproj.CoreCompileInputs.cache
+C:\Users\salih\Downloads\NotepadClone\obj\Debug\net8.0-windows\NotepadClone.dll
+C:\Users\salih\Downloads\NotepadClone\obj\Debug\net8.0-windows\refint\NotepadClone.dll
+C:\Users\salih\Downloads\NotepadClone\obj\Debug\net8.0-windows\NotepadClone.pdb
+C:\Users\salih\Downloads\NotepadClone\obj\Debug\net8.0-windows\NotepadClone.genruntimeconfig.cache
+C:\Users\salih\Downloads\NotepadClone\obj\Debug\net8.0-windows\ref\NotepadClone.dll
