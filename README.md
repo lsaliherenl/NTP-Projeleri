@@ -65,6 +65,17 @@ Nesne Tabanlı Programlama dersi kapsamında geliştirdiğim haftalık proje uyg
 
 ---
 
+### 6) Image Process (Görüntü İşleme, WinForms + ImageSharp)
+- **Konu**: Görüntü filtreleme, dönüştürme ve düzenleme uygulaması
+- **Öne Çıkanlar**: Gri tonlama, blur, sepia, keskinleştirme filtreleri; döndürme ve ayna efektleri; undo/redo sistemi; zoom desteği; sürükle-bırak görsel yükleme; çoklu format desteği (PNG, JPEG, BMP)
+- **Klasör**: `Image_Process/form/`
+- **Çalıştırma**:
+  - Visual Studio ile `Image_Process/form.slnx` açın ve F5
+  - veya CLI: `cd Image_Process/form` → `dotnet build` → `dotnet run`
+- **Detaylı dokümantasyon**: `Image_Process/README.md`
+
+---
+
 ### Geliştirme Ortamı
 - .NET 8 SDK
 - Windows 10/11
