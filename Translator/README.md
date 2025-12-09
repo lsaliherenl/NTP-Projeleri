@@ -218,8 +218,6 @@ Sorularınız, önerileriniz veya hata bildirimleri için:
 ## 🙏 Teşekkürler
 
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - OCR motoru
-- [Azure Translator](https://azure.microsoft.com/services/cognitive-services/translator/) - Çeviri servisi
-- Tüm katkıda bulunanlara teşekkürler!
 
 ---
 
