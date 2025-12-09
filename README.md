@@ -76,6 +76,18 @@ Nesne Tabanlı Programlama dersi kapsamında geliştirdiğim haftalık proje uyg
 
 ---
 
+### 7) Translator (Ekran Çevirici, WinForms + Tesseract OCR + Azure Translator)
+- **Konu**: Ekrandan seçilen metinleri OCR ile okuyup Azure Translator API ile çeviren masaüstü uygulaması
+- **Öne Çıkanlar**: Ekran seçimi ile metin okuma, Tesseract OCR desteği, 12 dilde kaynak/hedef dil desteği, global hotkey ile hızlı erişim, system tray entegrasyonu, overlay sonuç gösterimi, Arapça RTL desteği
+- **Klasör**: `Translator/Translator/`
+- **Ön koşul**: Azure Translator API anahtarı ve bölge bilgisi
+- **Çalıştırma**:
+  - Visual Studio ile `Translator/Translator.slnx` açın ve F5
+  - veya CLI: `cd Translator/Translator` → `dotnet build` → `dotnet run`
+- **Detaylı dokümantasyon**: `Translator/README.md`
+
+---
+
 ### Geliştirme Ortamı
 - .NET 8 SDK
 - Windows 10/11
