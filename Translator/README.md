@@ -189,7 +189,7 @@ Azure Translator API ile aşağıdaki dillere çeviri yapılabilir:
 
 ## 📝 Lisans
 
-Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
+Bu proje eğitim amaçlı geliştirilmiştir dilediğiniz gibi kullanabilirsiniz. 
 
 ## 🤝 Katkıda Bulunma
 
@@ -212,8 +212,8 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 
 Sorularınız, önerileriniz veya hata bildirimleri için:
 
-- GitHub Issues: [Proje Issues Sayfası](https://github.com/kullaniciadi/translator/issues)
-- Email: [E-posta adresiniz]
+- GitHub Issues: [Proje Issues Sayfası](https://github.com/lsaliherenl/NTP-Projeleri/issues)
+- Email: saliherencavusoglu23@gmail.com
 
 ## 🙏 Teşekkürler
 
